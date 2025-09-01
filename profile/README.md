@@ -1,6 +1,6 @@
 # Tied, inc. 
 
-JP Official Site: https://we.tied-inc.com/
+JP Official Site: https://corp.tied-inc.com/
 
 ## About us 
 

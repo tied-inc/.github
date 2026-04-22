@@ -1,37 +1,13 @@
 # Tied, inc. 
 
-JP Official Site: https://corp.tied-inc.com/
+公式サイト: https://corp.tied-inc.com/
 
-## About us 
+## OSSへの向き合い方
 
-We specialise in providing technical consulting services across multiple domains, including technology, recruitment, and R&D, with a particular focus on early-stage startups.
-Our approach is predominantly hands-on, ensuring that we work closely alongside our clients to deliver meaningful support.  
+私たちは技術者として、社会に対する責任を強く自覚しています。技術の恩恵を受けて仕事ができている以上、その力を社会に還元することは当然の務めだと考えています。オープンソースソフトウェア（OSS）は、その実践の場です。
 
-### Examples of Our Projects 
+経済的な収益性が見込めなくても、誰かにとって必要なものがあるならば、私たちはそれをOSSとして届けます。利益ではなく、必要性を起点にものづくりをする。それが私たちの姿勢です。
 
-- Formation and recruitment of AI-related R&D teams and organisations  
-- Advisory and ongoing support for engineering teams  
-- Technical validation of new technologies and strategic recommendations for business applications  
-- Technical and development support during the launch of new ventures  
-- Assistance with engineering recruitment, training, and team-building initiative
+OSSの開発を通じて、技術コミュニティとの協働を大切にしています。コードを公開するだけでなく、透明性のあるプロセスの中で対話し、共に良いものを作り上げていきたいと考えています。
 
-
-## OSS Policy
-
-### Introduction
-We, as technologists, bear a responsibility towards society and aim to contribute through open-source software (OSS).
-
-### Contribution to the Community
-We prioritise collaboration with the tech community through our open-source projects, emphasising transparency and cooperation.
-
-### Realising Noblesse Oblige
-We acknowledge our privilege and responsibility as technologists, and address societal issues through OSS.
-
-### When to Create OSS
-We provide products through OSS when there's a need, even if economic viability is lacking.
-
-### Recruiting Supporters
-We are seeking individuals who resonate with our vision. If you're interested, please support us via GitHub Sponsors.
-
-### Communication
-We have opened GitHub Discussions. If you have any issues or requests, please let us know. For significant challenges, we aim to address them proactively.
+私たちのビジョンに共感してくださる方を募集しています。GitHub Sponsorsからのご支援や、GitHub Discussionsでのご意見・ご要望をお待ちしています。
